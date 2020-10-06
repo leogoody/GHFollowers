@@ -7,6 +7,7 @@ Application is built during Sean Allen's [Take Home Project Course](https://sean
 ### Technologies Used
 
 - Programmatic UI
+- No third party libraries
 - MVC Design Pattern
 - UIKit
 - Auto Layout
